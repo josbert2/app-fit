@@ -39,6 +39,13 @@ const EspaldaPecho = () => {
                     levels='3×10-12 -> 3×8-12 -> 3×6-8'
                     img="https://i0.wp.com/www.gimnasiogym.net/wp-content/uploads/2021/03/aperturas-con-mancuernas-5.gif?resize=628%2C419&ssl=1"/>
                     </div>
+
+                    <div>
+                    <Ejercicios 
+                    title='Pull-over'
+                    levels='3×10-12 -> 3×8-12 -> 3×6-8'
+                    img="https://www.fitcron.com/wp-content/uploads/2021/03/03751301-Dumbbell-Pullover_Chest_720.gif"/>
+                    </div>
                 </div>
             </div>
         </main>

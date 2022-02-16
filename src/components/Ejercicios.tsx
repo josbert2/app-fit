@@ -22,7 +22,7 @@ const Ejercicios: React.FC<Props> = ({ img, title, levels }) => {
   return (
     <div>
         <div className='px-3 py-3 border rounded shadow'>
-            <div className="pt-4 border-b h-44">
+            <div className="border-b h-44">
             <img className='w-full h-full' src={img} />
             </div>
             <div className='mt-4'>
